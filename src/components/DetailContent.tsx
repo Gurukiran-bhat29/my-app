@@ -44,19 +44,21 @@ function DetailContent() {
 
   const { title, summary, fullText } = selectedArticle;
 
-  if (title) {
-    return (
-      <div className='content-container'>
-        <div className='detail-content'>
-          <h1>{title}</h1>
-          <h3>{summary}</h3>
-          <p className='full-text'>{fullText}</p>
-        </div>
-        <button className='back-button' onClick={() => navigate('/')}>Back</button>
-      </div>
-    );
-  }
 
+  return (
+    <div className='content-container'>
+      {title && (
+        <>
+          <div className='detail-content'>
+            <h1>{title}</h1>
+            <h3>{summary}</h3>
+            <p className='full-text'>{fullText}</p>
+          </div>
+          <button className='back-button' onClick={() => navigate('/')}>Back</button>
+        </>
+      )}
+    </div>
+  );
 }
 
 export default DetailContent;
