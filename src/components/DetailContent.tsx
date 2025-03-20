@@ -44,9 +44,8 @@ function DetailContent() {
 
   const { title, summary, fullText } = selectedArticle;
 
-
   return (
-    <div className='content-container'>
+    <div data-testid='article-contents' className='content-container'>
       {title && (
         <>
           <div className='detail-content'>

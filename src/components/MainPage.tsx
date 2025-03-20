@@ -36,7 +36,7 @@ function MainPage() {
     <div className='main-container'>
       {articles.length > 0 && articles.map(({ id, title, summary }: Article) => {
         return (
-          <Link className='info-card' key={id} to={'results?v=' + id}>
+          <Link data-testid='info-cards' className='info-card' key={id} to={'results?v=' + id}>
             <InfoCard title={title} summary={summary} />
           </Link>
         )

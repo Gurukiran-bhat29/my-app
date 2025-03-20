@@ -1,0 +1,863 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render article on load 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="main-container"
+      >
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=1"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              Exploring the Wonders of the Great Barrier Reef
+            </p>
+            <p>
+              Discover the incredible biodiversity and natural beauty of the Great Barrier Reef.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=10"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              The Impact of Artificial Intelligence on Society: Opportunities and Challenges
+            </p>
+            <p>
+              Examine the transformative effects of artificial intelligence on various aspects of society and discuss ethical considerations.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=2"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              The Rise of Electric Vehicles: Shaping the Future of Transportation
+            </p>
+            <p>
+              Learn about the advancements in electric vehicle technology and their impact on reducing carbon emissions.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=3"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              The Art of Meditation: Finding Inner Peace in a Busy World
+            </p>
+            <p>
+              Explore the benefits of meditation for mental health and wellbeing.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=4"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              Unraveling the Mysteries of Black Holes
+            </p>
+            <p>
+              Delve into the fascinating world of black holes and their role in shaping the universe.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=5"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              The Power of Habit: How Small Changes Can Transform Your Life
+            </p>
+            <p>
+              Learn about the science behind habits and strategies for cultivating positive ones.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=6"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              Culinary Adventures: Exploring the Flavors of Italy
+            </p>
+            <p>
+              Embark on a gastronomic journey through Italy's rich culinary heritage.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=7"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              The Human Brain: Unlocking Its Potential and Understanding Its Complexity
+            </p>
+            <p>
+              Discover the intricacies of the human brain and ongoing research aimed at unraveling its mysteries.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=8"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              Sustainable Living: Simple Steps Towards a Greener Future
+            </p>
+            <p>
+              Explore practical tips and eco-friendly practices for reducing carbon footprint.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=9"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              The History and Legacy of the Ancient Egyptians
+            </p>
+            <p>
+              Journey back in time to ancient Egypt and uncover the marvels of its civilization.
+            </p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="main-container"
+    >
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=1"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            Exploring the Wonders of the Great Barrier Reef
+          </p>
+          <p>
+            Discover the incredible biodiversity and natural beauty of the Great Barrier Reef.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=10"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            The Impact of Artificial Intelligence on Society: Opportunities and Challenges
+          </p>
+          <p>
+            Examine the transformative effects of artificial intelligence on various aspects of society and discuss ethical considerations.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=2"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            The Rise of Electric Vehicles: Shaping the Future of Transportation
+          </p>
+          <p>
+            Learn about the advancements in electric vehicle technology and their impact on reducing carbon emissions.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=3"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            The Art of Meditation: Finding Inner Peace in a Busy World
+          </p>
+          <p>
+            Explore the benefits of meditation for mental health and wellbeing.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=4"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            Unraveling the Mysteries of Black Holes
+          </p>
+          <p>
+            Delve into the fascinating world of black holes and their role in shaping the universe.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=5"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            The Power of Habit: How Small Changes Can Transform Your Life
+          </p>
+          <p>
+            Learn about the science behind habits and strategies for cultivating positive ones.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=6"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            Culinary Adventures: Exploring the Flavors of Italy
+          </p>
+          <p>
+            Embark on a gastronomic journey through Italy's rich culinary heritage.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=7"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            The Human Brain: Unlocking Its Potential and Understanding Its Complexity
+          </p>
+          <p>
+            Discover the intricacies of the human brain and ongoing research aimed at unraveling its mysteries.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=8"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            Sustainable Living: Simple Steps Towards a Greener Future
+          </p>
+          <p>
+            Explore practical tips and eco-friendly practices for reducing carbon footprint.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=9"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            The History and Legacy of the Ancient Egyptians
+          </p>
+          <p>
+            Journey back in time to ancient Egypt and uncover the marvels of its civilization.
+          </p>
+        </div>
+      </a>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`should render articles list on load 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="main-container"
+      >
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=1"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              Exploring the Wonders of the Great Barrier Reef
+            </p>
+            <p>
+              Discover the incredible biodiversity and natural beauty of the Great Barrier Reef.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=10"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              The Impact of Artificial Intelligence on Society: Opportunities and Challenges
+            </p>
+            <p>
+              Examine the transformative effects of artificial intelligence on various aspects of society and discuss ethical considerations.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=2"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              The Rise of Electric Vehicles: Shaping the Future of Transportation
+            </p>
+            <p>
+              Learn about the advancements in electric vehicle technology and their impact on reducing carbon emissions.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=3"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              The Art of Meditation: Finding Inner Peace in a Busy World
+            </p>
+            <p>
+              Explore the benefits of meditation for mental health and wellbeing.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=4"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              Unraveling the Mysteries of Black Holes
+            </p>
+            <p>
+              Delve into the fascinating world of black holes and their role in shaping the universe.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=5"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              The Power of Habit: How Small Changes Can Transform Your Life
+            </p>
+            <p>
+              Learn about the science behind habits and strategies for cultivating positive ones.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=6"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              Culinary Adventures: Exploring the Flavors of Italy
+            </p>
+            <p>
+              Embark on a gastronomic journey through Italy's rich culinary heritage.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=7"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              The Human Brain: Unlocking Its Potential and Understanding Its Complexity
+            </p>
+            <p>
+              Discover the intricacies of the human brain and ongoing research aimed at unraveling its mysteries.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=8"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              Sustainable Living: Simple Steps Towards a Greener Future
+            </p>
+            <p>
+              Explore practical tips and eco-friendly practices for reducing carbon footprint.
+            </p>
+          </div>
+        </a>
+        <a
+          class="info-card"
+          data-testid="info-cards"
+          href="/results?v=9"
+        >
+          <div
+            class="container"
+          >
+            <p
+              class="title"
+            >
+              The History and Legacy of the Ancient Egyptians
+            </p>
+            <p>
+              Journey back in time to ancient Egypt and uncover the marvels of its civilization.
+            </p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="main-container"
+    >
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=1"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            Exploring the Wonders of the Great Barrier Reef
+          </p>
+          <p>
+            Discover the incredible biodiversity and natural beauty of the Great Barrier Reef.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=10"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            The Impact of Artificial Intelligence on Society: Opportunities and Challenges
+          </p>
+          <p>
+            Examine the transformative effects of artificial intelligence on various aspects of society and discuss ethical considerations.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=2"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            The Rise of Electric Vehicles: Shaping the Future of Transportation
+          </p>
+          <p>
+            Learn about the advancements in electric vehicle technology and their impact on reducing carbon emissions.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=3"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            The Art of Meditation: Finding Inner Peace in a Busy World
+          </p>
+          <p>
+            Explore the benefits of meditation for mental health and wellbeing.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=4"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            Unraveling the Mysteries of Black Holes
+          </p>
+          <p>
+            Delve into the fascinating world of black holes and their role in shaping the universe.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=5"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            The Power of Habit: How Small Changes Can Transform Your Life
+          </p>
+          <p>
+            Learn about the science behind habits and strategies for cultivating positive ones.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=6"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            Culinary Adventures: Exploring the Flavors of Italy
+          </p>
+          <p>
+            Embark on a gastronomic journey through Italy's rich culinary heritage.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=7"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            The Human Brain: Unlocking Its Potential and Understanding Its Complexity
+          </p>
+          <p>
+            Discover the intricacies of the human brain and ongoing research aimed at unraveling its mysteries.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=8"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            Sustainable Living: Simple Steps Towards a Greener Future
+          </p>
+          <p>
+            Explore practical tips and eco-friendly practices for reducing carbon footprint.
+          </p>
+        </div>
+      </a>
+      <a
+        class="info-card"
+        data-testid="info-cards"
+        href="/results?v=9"
+      >
+        <div
+          class="container"
+        >
+          <p
+            class="title"
+          >
+            The History and Legacy of the Ancient Egyptians
+          </p>
+          <p>
+            Journey back in time to ancient Egypt and uncover the marvels of its civilization.
+          </p>
+        </div>
+      </a>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
